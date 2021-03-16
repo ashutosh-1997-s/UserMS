@@ -1,0 +1,53 @@
+
+Ecom.infosys.fa4project.User.dto.LoginDTO#toString()Ljava/lang/String;\
+RC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/LoginDTO.java ("1*¤
+
+1\
+RC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/LoginDTO.java	 (!¼
+¹
+\
+RC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/LoginDTO.java$ (/
+%0java.lang.Long"__id*=*;*
+(com.infosys.fa4project.User.dto.LoginDTO"
+phoneNumber·
+´
+\
+RC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/LoginDTO.java	 (/
+%1java.lang.String"__concat*
+LoginDTO [phoneNumber=*
+
+%0java.lang.Long®
+«
+\
+RC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/LoginDTO.java	 (?
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+, password=»
+¸
+\
+RC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/LoginDTO.javaB (J
+%3java.lang.String"__id*:*8*
+(com.infosys.fa4project.User.dto.LoginDTO"
+
+password·
+´
+\
+RC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/LoginDTO.java	 (J
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.String¤
+¡
+\
+RC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/LoginDTO.java	 (P
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+]"x
+\
+RC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/LoginDTO.java (Q
+
+%5java.lang.StringB,*
+(com.infosys.fa4project.User.dto.LoginDTO

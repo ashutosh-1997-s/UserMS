@@ -1,0 +1,88 @@
+
+ccom.infosys.fa4project.User.dto.SellerDTO#createEntity()Lcom/infosys/fa4project/User/entity/Seller;]
+SC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/SellerDTO.javaE E("1*„
+1]
+SC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/SellerDTO.javaF F(¾»
+]
+SC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/SellerDTO.javaF F(/
+%0)com.infosys.fa4project.User.entity.Seller")com.infosys.fa4project.User.entity.SellerÐ
+Í
+]
+SC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/SellerDTO.javaF F(
+%1"3com.infosys.fa4project.User.entity.Seller#<init>()V*1
+/
+%0)com.infosys.fa4project.User.entity.SellerÎ
+Ë
+]
+SC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/SellerDTO.javaF F(1
+sell)com.infosys.fa4project.User.entity.Seller"__id*1
+/
+%0)com.infosys.fa4project.User.entity.Sellerýú
+]
+SC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/SellerDTO.javaH H(
+%2java.lang.String"Fcom.infosys.fa4project.User.dto.SellerDTO#getEmail()Ljava/lang/String;*-+
+)com.infosys.fa4project.User.dto.SellerDTO2
+getEmail()¤¡
+]
+SC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/SellerDTO.javaH H( 
+
+%3void"Gcom.infosys.fa4project.User.entity.Seller#setEmail(Ljava/lang/String;)V*3
+1
+sell)com.infosys.fa4project.User.entity.Seller*
+
+%2java.lang.String2setEmail(Ljava/lang/String;)¾
+»
+]
+SC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/SellerDTO.javaI I( 
+%4java.lang.Boolean"__id*;*9+
+)com.infosys.fa4project.User.dto.SellerDTO"
+
+isActive­ª
+]
+SC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/SellerDTO.javaI I(!
+
+%5void"Kcom.infosys.fa4project.User.entity.Seller#setIsActive(Ljava/lang/Boolean;)V*3
+1
+sell)com.infosys.fa4project.User.entity.Seller*
+
+%4java.lang.Boolean2 setIsActive(Ljava/lang/Boolean;)ûø
+]
+SC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/SellerDTO.javaJ J(
+%6java.lang.String"Ecom.infosys.fa4project.User.dto.SellerDTO#getName()Ljava/lang/String;*-+
+)com.infosys.fa4project.User.dto.SellerDTO2	getName()¢Ÿ
+]
+SC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/SellerDTO.javaJ J(
+
+%7void"Fcom.infosys.fa4project.User.entity.Seller#setName(Ljava/lang/String;)V*3
+1
+sell)com.infosys.fa4project.User.entity.Seller*
+
+%6java.lang.String2setName(Ljava/lang/String;)ƒ€
+]
+SC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/SellerDTO.javaK K(%
+%8java.lang.String"Icom.infosys.fa4project.User.dto.SellerDTO#getPassword()Ljava/lang/String;*-+
+)com.infosys.fa4project.User.dto.SellerDTO2getPassword()ª§
+]
+SC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/SellerDTO.javaK K(&
+
+%9void"Jcom.infosys.fa4project.User.entity.Seller#setPassword(Ljava/lang/String;)V*3
+1
+sell)com.infosys.fa4project.User.entity.Seller*
+
+%8java.lang.String2setPassword(Ljava/lang/String;)†ƒ
+]
+SC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/SellerDTO.javaL L(+
+%10java.lang.Long"Jcom.infosys.fa4project.User.dto.SellerDTO#getPhoneNumber()Ljava/lang/Long;*-+
+)com.infosys.fa4project.User.dto.SellerDTO2getPhoneNumber()¬©
+]
+SC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/SellerDTO.javaL L(,
+%11void"Kcom.infosys.fa4project.User.entity.Seller#setPhoneNumber(Ljava/lang/Long;)V*3
+1
+sell)com.infosys.fa4project.User.entity.Seller*
+
+%10java.lang.Long2 setPhoneNumber(Ljava/lang/Long;)"”
+]
+SC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/SellerDTO.javaN N(3
+1
+sell)com.infosys.fa4project.User.entity.SellerB-+
+)com.infosys.fa4project.User.dto.SellerDTO

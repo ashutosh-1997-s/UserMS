@@ -1,0 +1,64 @@
+
+ècom.infosys.fa4project.User.dto.WishlistDTO#valueOf(Lcom/infosys/fa4project/User/entity/Wishlist;)Lcom/infosys/fa4project/User/dto/WishlistDTO;_
+UC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/WishlistDTO.java (""1*Ú
+1_
+UC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/WishlistDTO.java ()ƒ¡
+_
+UC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/WishlistDTO.java ('1
+%0+com.infosys.fa4project.User.dto.WishlistDTO"+com.infosys.fa4project.User.dto.WishlistDTO÷
+”
+_
+UC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/WishlistDTO.java ()
+%1"5com.infosys.fa4project.User.dto.WishlistDTO#<init>()V*3
+1
+%0+com.infosys.fa4project.User.dto.WishlistDTO◊
+‘
+_
+UC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/WishlistDTO.java (*6
+wishDTO+com.infosys.fa4project.User.dto.WishlistDTO"__id*3
+1
+%0+com.infosys.fa4project.User.dto.WishlistDTOπ∂
+_
+UC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/WishlistDTO.java ($.
+%2(com.infosys.fa4project.User.entity.MyKey"`com.infosys.fa4project.User.entity.Wishlist#getMyKey()Lcom/infosys/fa4project/User/entity/MyKey;*5
+3
+wish+com.infosys.fa4project.User.entity.Wishlist2
+getMyKey()áÑ
+_
+UC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/WishlistDTO.java (1
+%3java.lang.Integer"Hcom.infosys.fa4project.User.entity.MyKey#getBuyerId()Ljava/lang/Integer;*0
+.
+%2(com.infosys.fa4project.User.entity.MyKey2getBuyerId()¥±
+_
+UC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/WishlistDTO.java (2
+
+%4void"Lcom.infosys.fa4project.User.dto.WishlistDTO#setBuyerId(Ljava/lang/Integer;)V*8
+6
+wishDTO+com.infosys.fa4project.User.dto.WishlistDTO*
+
+%3java.lang.Integer2setBuyerId(Ljava/lang/Integer;)π∂
+_
+UC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/WishlistDTO.java (#.
+%5(com.infosys.fa4project.User.entity.MyKey"`com.infosys.fa4project.User.entity.Wishlist#getMyKey()Lcom/infosys/fa4project/User/entity/MyKey;*5
+3
+wish+com.infosys.fa4project.User.entity.Wishlist2
+getMyKey()ÖÇ
+_
+UC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/WishlistDTO.java (/
+%6java.lang.Integer"Gcom.infosys.fa4project.User.entity.MyKey#getProdId()Ljava/lang/Integer;*0
+.
+%5(com.infosys.fa4project.User.entity.MyKey2getProdId()≤Ø
+_
+UC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/WishlistDTO.java (0
+
+%7void"Kcom.infosys.fa4project.User.dto.WishlistDTO#setProdId(Ljava/lang/Integer;)V*8
+6
+wishDTO+com.infosys.fa4project.User.dto.WishlistDTO*
+
+%6java.lang.Integer2setProdId(Ljava/lang/Integer;)"õ
+_
+UC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/WishlistDTO.java (8
+6
+wishDTO+com.infosys.fa4project.User.dto.WishlistDTO:3
+wish+com.infosys.fa4project.User.entity.WishlistB/"-
++com.infosys.fa4project.User.dto.WishlistDTO

@@ -1,0 +1,17 @@
+
+Icom.infosys.fa4project.User.entity.Buyer#getIsActive()Ljava/lang/Boolean;\
+RC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/entity/Buyer.javaR R("1*›
+1\
+RC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/entity/Buyer.javaS	 S(¼
+¹
+\
+RC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/entity/Buyer.javaS	 S(
+%0java.lang.Boolean"__id*:*8*
+(com.infosys.fa4project.User.entity.Buyer"
+
+isActive"y
+\
+RC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/entity/Buyer.javaS S(
+
+%0java.lang.BooleanB,*
+(com.infosys.fa4project.User.entity.Buyer

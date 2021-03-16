@@ -1,0 +1,24 @@
+
+gcom.infosys.fa4project.User.controller.BuyerController#getWishlist(Ljava/lang/Integer;)Ljava/util/List;l
+`C:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/controller/BuyerController.java“ “(%"1*ñ
+1l
+`C:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/controller/BuyerController.java”	 ”(ƒ
+€
+l
+`C:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/controller/BuyerController.java”	 ”(9
+%03com.infosys.fa4project.User.service.WishlistService"__id*O*M8
+6com.infosys.fa4project.User.controller.BuyerController"
+wishlistServiceîë
+l
+`C:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/controller/BuyerController.java”	 ”(.
+%1java.util.List"ecom.infosys.fa4project.User.service.WishlistService#getByBuyerId(Ljava/lang/Integer;)Ljava/util/List;*;
+9
+%03com.infosys.fa4project.User.service.WishlistService*
+
+buyerIdjava.lang.Integer2!getByBuyerId(Ljava/lang/Integer;)"†
+l
+`C:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/controller/BuyerController.java” ”(/
+
+%1java.util.List:
+buyerIdjava.lang.IntegerB:8
+6com.infosys.fa4project.User.controller.BuyerController

@@ -1,0 +1,16 @@
+
+Icom.infosys.fa4project.User.dto.ProductDTO#getRating()Ljava/lang/Integer;^
+TC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/ProductDTO.javaC C("1*¡
+1^
+TC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/ProductDTO.javaD	 D(¾
+»
+^
+TC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/ProductDTO.javaD	 D(
+%0java.lang.Integer"__id*:*8,
+*com.infosys.fa4project.User.dto.ProductDTO"
+rating"{
+^
+TC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/ProductDTO.javaD D(
+
+%0java.lang.IntegerB.,
+*com.infosys.fa4project.User.dto.ProductDTO

@@ -1,0 +1,17 @@
+
+Kcom.infosys.fa4project.User.dto.ProductDTO#getSellerId()Ljava/lang/Integer;^
+TC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/ProductDTO.javaI I("1*£
+1^
+TC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/ProductDTO.javaJ	 J(À
+½
+^
+TC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/ProductDTO.javaJ	 J(
+%0java.lang.Integer"__id*<*:,
+*com.infosys.fa4project.User.dto.ProductDTO"
+
+sellerId"{
+^
+TC:/project/fa4/UsersMS/src/main/java/com/infosys/fa4project/User/dto/ProductDTO.javaJ J(
+
+%0java.lang.IntegerB.,
+*com.infosys.fa4project.User.dto.ProductDTO
